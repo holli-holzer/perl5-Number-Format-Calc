@@ -1,0 +1,5 @@
+/blib/
+*.tar.gz
+MYMETA*
+Todo
+pm_to_blib
